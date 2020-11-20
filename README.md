@@ -9,8 +9,8 @@ is the path of output file which content is including the lists which do not exi
 
 line 19 
 is the path of the folder where the file are in(absolute path! require to be changed)
-(have to add "/*" at the end of path)
-(for instance the path which includes files is "~/Destop/folder", change to "~/Destop/folder/*").
+(have to add / at the end of path)
+(for instance the path which includes files is "~/Destop/folder", change to "~/Destop/folder/").
 
 line 25 
 is the path of the text file which includes the list of file(absolute path! require to be changed).
